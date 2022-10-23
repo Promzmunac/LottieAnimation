@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LottieApp</string>
+    <string name="continuebtn">CONTINUE</string>
+    <string name="play">play</string>
+</resources>
